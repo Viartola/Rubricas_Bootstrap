@@ -1,0 +1,157 @@
+html, body{
+	height: 100%;
+}
+
+.container{
+	background: #D2D2D2;
+	//background: red;
+	height: 100%;
+	width: 100%;
+	
+}
+
+/*REDBLUE*/
+
+.red{
+	background: red;
+	width:200px;
+	height: 200px;
+}
+
+.redHome{
+	background: red;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.midRedBlue{
+	background: #fff;
+	height:200px;
+	width:200px;
+	transform: rotate(180deg);
+	text-align: right;
+}
+
+.redBlueHome{
+	background: #fff;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.redBlueHomeEsp{
+	background: red;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.blue{
+	background: #008cff;
+	height:200px;
+	width:200px;
+}
+
+.blueHome{
+	background: #008cff;
+	height: 100px;
+	border: 1px solid black;
+}
+
+/*MID*/
+.mid1{
+	background: #fff;
+	height:200px;
+	width: 200px;
+	transform:rotate(90deg);
+	text-align: right;
+}
+
+.mid1Home{
+	background: #fff;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.mid1HomeEsp{
+	background: #00c600;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.mid3{
+	//background: red;
+	width: 200px;
+	height: 200px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.parchis{
+	width: 200px;
+	height: 200px;
+}
+
+
+.mid2{
+	background: #fff;
+	height:200px;
+	width: 200px;
+	transform:rotate(-90deg);
+	text-align: right;
+}
+
+.mid2Home{
+	background: #fff;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.mid2HomeEsp{
+	background: #008cff;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+/*GREENYELLOW*/
+
+.green{
+	background: #00c600;
+	height: 200px;
+	width: 200px;
+}
+
+.greenHome{
+	background: #00c600;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.midGreenYellow{
+	background: #fff;
+	height:200px;
+	width: 200px;
+	text-align: right;
+}
+
+.greenYellowHome{
+	background: #fff;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.greenYellowHomeEsp{
+	background: yellow;
+	height:28.57px;
+	border: 1px solid black;
+}
+
+.yellow{
+	background: yellow;
+	height:200px;
+	width:200px;
+}
+
+.yellowHome{
+	background: yellow;
+	height: 100px;
+	border: 1px solid black;
+}
